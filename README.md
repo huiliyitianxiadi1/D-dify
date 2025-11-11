@@ -203,14 +203,4 @@ At the same time, please consider supporting Dify by sharing it on social media 
   <img src="https://contrib.rocks/image?repo=langgenius/dify" />
 </a>
 
-## Star history
-
-[![Star History Chart](https://api.star-history.com/svg?repos=langgenius/dify&type=Date)](https://star-history.com/#langgenius/dify&Date)
-
-## Security disclosure
-
-To protect your privacy, please avoid posting security issues on GitHub. Instead, report issues to security@dify.ai, and our team will respond with detailed answer.
-
-## License
-
-This repository is licensed under the [Dify Open Source License](LICENSE), based on Apache 2.0 with additional conditions.
+ 
